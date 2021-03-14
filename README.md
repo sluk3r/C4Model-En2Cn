@@ -10,15 +10,15 @@ As an industry, we do have the Unified Modeling Language \(UML\), ArchiMate and 
 
 整个行业来看，我们有UML、ArchiMate和SysML， 不过，要是问问身边同事，上面的工具是不是给大家的软件工作带来沟通上的便利，得到的答案往往不乐观：很多团队早就不使用这么复杂的东东， 转而使用的更简单的”框框和线“。抛弃那些看似复杂的画图工具看着潇洒，不过，在崇尚敏捷高效的时代背景下，很多团队因没能图形化地沟通、产出效率一直提不起来。
 
-
-
 ### Maps of your code
 
 The C4 model was created as a way to help software development teams describe and communicate software architecture, both during up-front design sessions and when retrospectively documenting an existing codebase. It's a way to create maps of your code, at various levels of detail, in the same way you would use something like Google Maps to zoom in and out of an area you are interested in.
 
-
-
 **代码的导航图**
 
-C4模型正是为了解决上面的两难选择而设计出来的，它可以帮助软件开发团队描述并沟通软件架构，在软件设计的前期和基于现在软件反向地汇总文档时都好使。 打个比方，
+C4模型正是为了解决上面的两难选择而设计出来的，它可以帮助软件开发团队描述并沟通软件架构，在软件设计的前期和基于现在软件反向地汇总文档时都好使。 C4模型是创建代码的导航图， 可以提供不同层级的导航图。使用Google Maps体会下， 我们可以选中一个地区灵活地放大或缩小地查看。 
+
+
+
+
 
