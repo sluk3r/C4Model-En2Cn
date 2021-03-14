@@ -81,3 +81,11 @@ Different levels of zoom allow you to tell different stories to different audien
 
 The C4 model is an "abstraction-first" approach to diagramming software architecture, based upon abstractions that reflect how software architects and developers think about and build software. The small set of abstractions and diagram types makes the C4 model easy to learn and use.
 
+
+
+Abstractions
+In order to create these maps of your code, we first need a common set of abstractions to create a ubiquitous language that we can use to describe the static structure of a software system. The C4 model considers the static structures of a software system in terms of containers, components and code. And people use the software systems that we build.
+
+Abstractions
+
+A software system is made up of one or more containers (web applications, mobile apps, desktop applications, databases, file systems, etc), each of which contains one or more components, which in turn are implemented by one or more code elements (e.g. classes, interfaces, objects, functions, etc).
