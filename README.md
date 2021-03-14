@@ -8,7 +8,5 @@ Ask somebody in the building industry to visually communicate the architecture o
 
 As an industry, we do have the Unified Modeling Language \(UML\), ArchiMate and SysML, but asking whether these provide an effective way to communicate software architecture is often irrelevant because many teams have already thrown them out in favour of much simpler "boxes and lines" diagrams. Abandoning these modelling languages is one thing but, perhaps in the race for agility, many software development teams have lost the ability to communicate visually.
 
-
-
-整个行业来看，我们有UML、ArchiMate和SysML， 不过，要是问问身边同事，上面的工具是不是给大家的软件工作带来沟通上的便利，得到的答案往往不乐观：很多团队早就不使用这么复杂的东东， 转而使用的更简单的”框框和线“。
+整个行业来看，我们有UML、ArchiMate和SysML， 不过，要是问问身边同事，上面的工具是不是给大家的软件工作带来沟通上的便利，得到的答案往往不乐观：很多团队早就不使用这么复杂的东东， 转而使用的更简单的”框框和线“。抛弃那些看似复杂的画图工具看着潇洒，不过，在崇尚敏捷高效的时代背景下，
 
