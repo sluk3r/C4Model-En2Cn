@@ -59,7 +59,7 @@ Although primarily aimed at software architects and developers, the C4 model pro
   
 ![](https://c4model.com/img/bigbankplc-SystemContext.png)
 
-Level 1: A **System Context **diagram provides a starting point, showing how the software system in scope fits into the world around it.
+Level 1: A **System Context** diagram provides a starting point, showing how the software system in scope fits into the world around it.
 
 第一级：系统
 
