@@ -16,9 +16,38 @@ The C4 model was created as a way to help software development teams describe an
 
 **代码的导航图**
 
-C4模型正是为了解决上面的两难选择而设计出来的，它可以帮助软件开发团队描述并沟通软件架构，在软件设计的前期和基于现在软件反向地汇总文档时都好使。 C4模型是创建代码的导航图， 可以提供不同层级的导航图。使用Google Maps体会下， 我们可以选中一个地区灵活地放大或缩小地查看。 
+C4模型正是为了解决上面的两难选择而设计出来的，它可以帮助软件开发团队描述并沟通软件架构，在软件设计的前期和基于现在软件反向地汇总文档时都好使。 C4模型是创建代码的导航图， 可以提供不同层级的导航图。使用Google Maps体会下， 我们可以选中一个地区灵活地放大或缩小地查看。
 
 
+
+就像源码一样，通过Google的街景视图， 我们可以看到很低级别的精确查看。
+
+如果放大些的话，我们可方便地导航到一个陌生的地方。
+
+再进一步放大的话，可以看到更多的周遭环境，而这一切以前咱可能没有意识到。
+
+使用不同级别的视图，我们可以对不一样的听众说出不一样的故事。
+
+
+
+  
+![](https://c4model.com/img/map-1.jpg "Google Street View")
+
+Like source code, Google Street View provides a very low-level and accurate view of a location.
+
+![](https://c4model.com/img/map-2.jpg "Google Maps")
+
+Navigating an unfamiliar environment becomes easier if you zoom out though.
+
+![](https://c4model.com/img/map-3.jpg "Google Maps")
+
+Zooming out further will provide additional context you might not have been aware of.
+
+![](https://c4model.com/img/map-4.jpg "Google Maps")
+
+Different levels of zoom allow you to tell different stories to different audiences.
+
+Although primarily aimed at software architects and developers, the C4 model provides a way for software development teams to efficiently and effectively communicate their software architecture, at different levels of detail, telling different stories to different types of audience, when doing up front design or retrospectively documenting an existing codebase.
 
 
 
