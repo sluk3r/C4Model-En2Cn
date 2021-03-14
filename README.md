@@ -65,15 +65,15 @@ Level 1: A **System Context** diagram provides a starting point, showing how the
 
 ![](https://c4model.com/img/bigbankplc-Containers.png)
 
-Level 2: A**Container**diagram zooms into the software system in scope, showing the high-level technical building blocks.
+Level 2: A **Container** diagram zooms into the software system in scope, showing the high-level technical building blocks.
 
 ![](https://c4model.com/img/bigbankplc-Components.png)
 
-Level 3: A**Component**diagram zooms into an individual container, showing the components inside it.
+Level 3: A **Component** diagram zooms into an individual container, showing the components inside it.
 
 ![](https://c4model.com/img/bigbankplc-Classes.png)
 
-Level 4: A**code**\(e.g. UML class\) diagram can be used to zoom into an individual component, showing how that component is implemented.
+Level 4: A **code** \(e.g. UML class\) diagram can be used to zoom into an individual component, showing how that component is implemented.
 
 [![](https://c4model.com/img/c4-overview.png "An overview of the C4 model")](https://c4model.com/img/c4-overview.png)
 
