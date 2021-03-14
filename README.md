@@ -8,5 +8,3 @@ Ask somebody in the building industry to visually communicate the architecture o
 
 
 
-
-
