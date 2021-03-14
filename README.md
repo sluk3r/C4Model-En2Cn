@@ -4,3 +4,5 @@ Ask somebody in the building industry to visually communicate the architecture o
 
 
 
+怎么可视化地有效沟通？问建筑行业的的兄弟时， 
+
